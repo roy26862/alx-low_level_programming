@@ -18,6 +18,6 @@ int main(void)
 	printf("The size of an float is: %lu\n", (unsigned long)sizeof(f));
 	printf("The size of an long int is: %lu\n", (unsigned long)sizeof(ii));
 	printf("The size of an long long is: %lu\n", (unsigned long)sizeof(ll));
-	
+
 	return (0);
 }
